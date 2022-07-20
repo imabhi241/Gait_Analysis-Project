@@ -1,1 +1,3 @@
-NOTE: If Jupyter Nootbook doesn't open head over to this link-https://nbviewer.org/github/imabhi241/Gait_Analysis-Project/blob/main/Gait%20Visualization.ipynb
+NOTE: If Jupyter Nootbook doesn't open head over to the mentioned links-
+Gait Visulizatuon: https://bit.ly/3oeVnnd
+
