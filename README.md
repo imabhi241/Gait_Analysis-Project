@@ -1,2 +1,1 @@
-"# Gait_Analysis" 
-"# Gait_Analysis" 
+                                        NOTE: If Jupyter Nootbook doesn't open head over to this link-
